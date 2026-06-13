@@ -35,3 +35,4 @@ Digite a porta inicial:
 Digite a porta final:
 1024
 ```
+<img width="190" height="105" alt="image" src="https://github.com/user-attachments/assets/58a26b3c-eea8-45e3-ba9b-fa3e77a820a9" />
