@@ -1,0 +1,17 @@
+Porta 80:http está aberta.
+Banner: HTTP/1.0 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-9QrFrLrB-BR5D3uhRVXYyg' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Sat, 13 Jun 2026 16:11:15 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Expires: Sat, 13 Jun 2026 16:11:15 GMT
+Cache-Control: private
+Set-Cookie: AEC=AaJma5ulQYNcjvgEs7S_wnusntXm3_MiMxoahATcDu2rgC6KgC2VTEU4jw; expires=Thu, 10-Dec-2026 16:11:15 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=532=iU7OMeLqc6_tHrd-dolxsXcK1QzWG3s0gYNslVtg7MS0nPbIX9FGr9WCf0cQmyzIgOlXdSSbyjLrkEOZ90bB01Ilo3-hHIRRBnI0gDw7jhSv9_Xko4Ws38yQNgSMeG8J9-u03-sC2AmdZZV3_TCfF4JGQ2RacVpnT5V7O_8E8MlpbWzZqHS5rdHNtQgW43Rx3_M6zGJfxfFEHAGZIg; expires=Sun, 13-Dec-2026 16:11:15 GMT; path=/; domain=.google.com; HttpOnly
+Porta 443:https está aberta.
+
+Escaneamento concluído.
+Resultados salvos em resultado_scan.txt
